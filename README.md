@@ -1,16 +1,22 @@
-### Hi there 👋
+<!-- Header -->
+<p align="center">
+  <img src="enlace/a/tu/foto/de/perfil.jpg" alt="Profile Picture" width="150" height="150">
+</p>
 
-<!--
-**briancgx/briancgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Brian Cumi] 👋
 
-Here are some ideas to get you started:
+I'm a passionate [programming and ethical hacking] based in [México]. Welcome to my GitHub profile! Here, you'll find a collection of my personal projects and contributions to the open-source community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me -->
+## About Me
+
+- 👩‍💻 A technology enthusiast who loves the world of computer security, as well as coding and problem solving.
+- 🌱 Currently exploring [Backend].
+- 📚 Currently studying [Computerstystems engineer] at [Instituto Tecnológico de Mérida].
+- 📫 You can reach me at [brian.azael02@gmail.com].
+
+<!-- GitHub Stats -->
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=briancgx&show_icons=true&count_private=true&theme=dark)
+
