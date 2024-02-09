@@ -6,7 +6,7 @@
 <!-- Name and Introduction -->
 <h1 align="center";>I'm Brian Guzmán ✌</h1>
 
-<p align="center" style="color: #555; font-size: 18px;">Passionate about programming and cybersecurity, based in Mexico. I enjoy sharing insights on advanced programming techniques and the latest trends in cybersecurity. My goal is to promote digital security and technological excellence, whether it's discussing secure coding practices or exploring the world of ethical hacking.</p>
+<p align="center" style="color: #555; font-size: 18px;">Passionate about programming and cybersecurity. I enjoy sharing insights on advanced programming techniques and the latest trends in cybersecurity. My goal is to promote digital security and technological excellence, whether it's discussing secure coding practices or exploring the world of ethical hacking.</p>
 
 <!-- Social Media Links -->
 <p align="center">
