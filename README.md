@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-    <img src="https://i.imgur.com/vtYEVXS.jpg" alt="Profile Picture" width="230" height="250">
-</p>
 
 <!-- Name and Introduction -->
 <h1 align="center";>I'm Brian Guzmán ✌</h1>
