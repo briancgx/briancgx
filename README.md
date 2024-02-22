@@ -27,10 +27,10 @@
   <li style="color: #555;">📫 You can reach me at brian.azael02@gmail.com.</li>
 </ul>
 
-**Skills 👨‍💻**
 <p align="center">
     <b>
-Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git
+        Skills 👨‍💻
+        Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git
     </b>
 </p>
 <!-- Social Media Links -->
