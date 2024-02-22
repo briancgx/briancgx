@@ -31,14 +31,6 @@
 
 **Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | Django | DevOps | Git**  
 
-<!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briancgx&show_icons=true&count_private=true&theme=dark">
-</p>
-
-
 <!-- Social Media Links -->
 **Personal Website**
 
