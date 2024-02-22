@@ -28,9 +28,11 @@
 </ul>
 
 **Skills 👨‍💻**
-
-**Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git**  
-
+<p align="center">
+    <b>
+Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git
+    </b>
+</p>
 <!-- Social Media Links -->
 **Personal Website**
 
