@@ -29,7 +29,7 @@
 
 **Skills 👨‍💻**
 
-**Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | Django | DevOps | Git**  
+**Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git**  
 
 <!-- Social Media Links -->
 **Personal Website**
