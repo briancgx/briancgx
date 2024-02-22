@@ -29,7 +29,7 @@
 
 <p align="center">
     <b>
-        Skills 👨‍💻 <br>
+        Skills 👨‍💻 <br><br>
         Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git
     </b>
 </p>
