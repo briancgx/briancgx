@@ -34,9 +34,9 @@
     </b>
 </p>
 <!-- Social Media Links -->
-**Personal Website**
+<h3>h3Personal Website</h3>
 
 <ul>
-  <!-- <a href="https://briancgx.github.io" style="color: #3498db;"> --> briancgx</a></li>
+  <a href="https://briancgx.github.io" style="color: #3498db;">briancgx</a></li>
 </ul>
 
