@@ -36,7 +36,7 @@
 <!-- Social Media Links -->
 <h3 align="center"> Personal Website</h3>
 
-<ul>
-  <a align="center" href="https://briancgx.github.io" style="color: #3498db;">briancgx</a></li>
+<ul align="center">
+  <a href="https://briancgx.github.io" style="color: #3498db;">briancgx</a></li>
 </ul>
 
