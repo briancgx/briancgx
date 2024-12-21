@@ -10,7 +10,7 @@ Hacking enthusiast, passionate about red teaming and offensive cybersecurity. En
 <h2>Social Media:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briancgx)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/briancgx)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/briancgx)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@br14ncgx)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discordapp.com/users/516485090659008512)
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jooosh____) -->
