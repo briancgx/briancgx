@@ -24,11 +24,10 @@ Hacking enthusiast, passionate about red teaming and offensive cybersecurity. En
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-%230076D6.svg?logo=amazon-dynamodb&logoColor=white) 
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black) 
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) <br> <br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="50" />
@@ -41,9 +40,7 @@ Hacking enthusiast, passionate about red teaming and offensive cybersecurity. En
 <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
 <img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
 <img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
-<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
 <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
-<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
 <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
 <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
 
