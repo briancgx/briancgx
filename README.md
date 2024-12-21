@@ -1,42 +1,52 @@
 <!-- Header -->
 
 <!-- Name and Introduction -->
-<h1 align="center";>I'm Brian CG</h1>
+<h1 align="center";>I'm Brian ✌️</h1>
 
-<p align="center" style="color: #555; font-size: 18px;">Passionate about programming and cybersecurity. I enjoy sharing insights on advanced programming techniques and the latest trends in cybersecurity. My goal is to promote digital security and technological excellence, whether it's discussing secure coding practices or exploring the world of ethical hacking.</p>
+<h2>About Me:</h2>
+>Hacking enthusiast, passionate about red teaming and offensive cybersecurity. Engineering student and researcher, constantly learning about new and challenging topics.
 
 <!-- Social Media Links -->
-<p align="center">
-    <a href="https://www.linkedin.com/in/briancgx">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.instagram.com/briancgx/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://discordapp.com/users/516485090659008512">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-</p>
+<h2>Social Media:</h2>
 
-<!-- About Me -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/briancgx)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/briancgx)  
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@br14ncgx)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=Discord&logoColor=white)](https://discordapp.com/users/516485090659008512)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jooosh____) -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCL5pqCgc5Zdul2enleAuK0w) -->
 
-<ul>
-  <li style="color: #555;">👩‍💻 Technology enthusiast who loves programming and cybersecurity.</li>
-  <li style="color: #555;">🌱 Currently exploring Backend development.</li>
-  <li style="color: #555;">📚 Studying Computer Systems Engineering at Instituto Tecnológico de Mérida.</li>
-  <li style="color: #555;">📫 You can reach me at brian.azael02@gmail.com.</li>
-</ul>
 
-<p align="center">
-    <b>
-        Skills 👨‍💻 <br><br>
-        Ethical Hacking | Linux | Bash Scripting | SQL | JavaScript | Python | DevOps | Git
-    </b>
-</p>
-<!-- Social Media Links -->
-<h3 align="center"> Personal Website</h3>
+<!-- Skills -->
+<h2>Skills:</h2>
 
-<ul align="center">
-  <a href="https://briancgx.github.io" style="color: #3498db;">briancgx</a></li>
-</ul>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-%230076D6.svg?logo=amazon-dynamodb&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?logo=windows&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?logo=linux&logoColor=black) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) <br> <br>
+<img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="50" />
+<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="50" />
+<img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" />
+<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
+<img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
+<img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
+<img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
+<img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="wfuzz" width="50" />
+<img src="https://www.kali.org/tools/evil-winrm/images/evil-winrm-logo.svg" alt="evil-winrm" width="50" />
+<img src="https://www.kali.org/tools/netcat/images/netcat-logo.svg" alt="netcat" width="50" />
+<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" alt="powershell" width="50" />
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="metasploit" width="50" />
+<img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" alt="ffuf" width="50" />
+<img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" alt="gobuster" width="50" />
+<img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" alt="sqlmap" width="50" />
+
+<!--
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="air-crack" width="50" />
 
