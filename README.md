@@ -4,7 +4,7 @@
 <h1 align="center";>I'm Brian ✌️</h1>
 
 <h2>About Me:</h2>
->Hacking enthusiast, passionate about red teaming and offensive cybersecurity. Engineering student and researcher, constantly learning about new and challenging topics.
+> Hacking enthusiast, passionate about red teaming and offensive cybersecurity. Engineering student and researcher, constantly learning about new and challenging topics.
 
 <!-- Social Media Links -->
 <h2>Social Media:</h2>
