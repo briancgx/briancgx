@@ -31,9 +31,9 @@ Hacking enthusiast, passionate about red teaming and offensive cybersecurity. En
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white) <br> <br>
 <img src="https://gitlab.com/uploads/-/system/project/avatar/40090554/kali-burpsuite.png" alt="Burpsuite" width="50" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/2051px-Vmware_workstation_16_icon.svg.png" alt="vmware" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/VirtualBox_23525.png" alt="virtualbox" width="50" />
+<img src="https://icon-icons.com/icons2/2699/PNG/512/virtualbox_logo_icon_169253.png" alt="virtualbox" width="50" />
 <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" width="50" />
-<img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/wireshark_104082.png" alt="wireshark" width="50" />
+<img src="https://icon-icons.com/icons2/159/PNG/256/wireshark_22388.png" alt="wireshark" width="50" />
 <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="hydra" width="50" />
 <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" alt="hashcat" width="50" />
 <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="john" width="50" />
